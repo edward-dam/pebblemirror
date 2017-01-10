@@ -1,0 +1,42 @@
+{
+    "author": "Edward Dam",
+    "dependencies": {},
+    "keywords": [],
+    "name": "mirror-v1.0",
+    "pebble": {
+        "displayName": "Mirror v1.0",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": [
+                {
+                    "file": "images/menu_icon.png",
+                    "menuIcon": true,
+                    "name": "MENU_ICON",
+                    "targetPlatforms": [
+                        "aplite",
+                        "basalt",
+                        "chalk",
+                        "diorite",
+                        "emery"
+                    ],
+                    "type": "bitmap"
+                }
+            ]
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "chalk",
+            "diorite",
+            "emery"
+        ],
+        "uuid": "16979e5f-dd23-4270-b11e-272398f844fa",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
