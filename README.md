@@ -14,7 +14,7 @@
 
 ### app store
 
-https://apps.getpebble.com/applications/58749ea12ee43136f40000a0
+https://apps.getpebble.com/en_US/application/58749ea12ee43136f40000a0
 
 ### description
 
